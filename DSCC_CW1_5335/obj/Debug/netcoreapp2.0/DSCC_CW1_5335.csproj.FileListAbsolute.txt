@@ -1,0 +1,11 @@
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\bin\Debug\netcoreapp2.0\DSCC_CW1_5335.deps.json
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\bin\Debug\netcoreapp2.0\DSCC_CW1_5335.runtimeconfig.json
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\bin\Debug\netcoreapp2.0\DSCC_CW1_5335.runtimeconfig.dev.json
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\bin\Debug\netcoreapp2.0\DSCC_CW1_5335.dll
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\obj\Debug\netcoreapp2.0\DSCC_CW1_5335.csprojAssemblyReference.cache
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\obj\Debug\netcoreapp2.0\DSCC_CW1_5335.csproj.CoreCompileInputs.cache
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\obj\Debug\netcoreapp2.0\DSCC_CW1_5335.AssemblyInfoInputs.cache
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\obj\Debug\netcoreapp2.0\DSCC_CW1_5335.AssemblyInfo.cs
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\bin\Debug\netcoreapp2.0\DSCC_CW1_5335.pdb
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\obj\Debug\netcoreapp2.0\DSCC_CW1_5335.dll
+D:\DSCC\CW1\DSCC_CW1_5335\DSCC_CW1_5335\obj\Debug\netcoreapp2.0\DSCC_CW1_5335.pdb
