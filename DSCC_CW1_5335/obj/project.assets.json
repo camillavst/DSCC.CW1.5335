@@ -13330,11 +13330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DSCC\\CW1\\DSCC_CW1_5335\\DSCC_CW1_5335\\DSCC_CW1_5335.csproj",
+      "projectUniqueName": "D:\\DSCC1\\DSCC_CW1_5335_GitHub\\DSCC_CW1_5335\\DSCC_CW1_5335.csproj",
       "projectName": "DSCC_CW1_5335",
-      "projectPath": "D:\\DSCC\\CW1\\DSCC_CW1_5335\\DSCC_CW1_5335\\DSCC_CW1_5335.csproj",
+      "projectPath": "D:\\DSCC1\\DSCC_CW1_5335_GitHub\\DSCC_CW1_5335\\DSCC_CW1_5335.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\DSCC\\CW1\\DSCC_CW1_5335\\DSCC_CW1_5335\\obj\\",
+      "outputPath": "D:\\DSCC1\\DSCC_CW1_5335_GitHub\\DSCC_CW1_5335\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
